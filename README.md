@@ -7,7 +7,7 @@
 
 ## References and Resources
 
- `equals() and hashCode() method implementations`:<https://www.infoworld.com/article/3305792/comparing-java-objects-with-equals-and-hashcode.html)>
+ `equals() and hashCode() method implementations`: <https://www.infoworld.com/article/3305792/comparing-java-objects-with-equals-and-hashcode.html)>
 
 ## Verbal Collaboration
 
